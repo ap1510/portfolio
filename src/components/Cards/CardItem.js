@@ -14,7 +14,7 @@ const CardItem = (props) => {
             <div style={{backgroundImage: "url('"+props.item.image+"')"}} className="card__img" alt={props.item.title}/>
             </a>
             <div className={"card__body"}>
-                <h2 className={"card__title"}><strong>{props.item.title}</strong></h2>
+                <h3 className={"card__title"}><strong>{props.item.title}</strong></h3>
                 <p className={"card__description"}>{props.item.description}</p>
                 <hr className={"card__line"}/>
                 <CardIcons item={props.item}/>
