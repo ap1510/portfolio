@@ -57,7 +57,7 @@ const homeConfig = {
             </div>
         ),
             description: (<ul>
-            <li>Managed risk of loan book sized 50 Mn+ loanbook, 150+ US SMEs </li>
+            <li>Managed portfolio risk of loan book sized 50 Mn+ USD, 150+ US SMEs </li>
             <li>Developed ML based probabilistic credit and fraud risk controls</li>
             <li>Onboarded new data vendors - credit bureaus, alternate data providers etc</li>
         </ul>),
