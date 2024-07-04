@@ -86,7 +86,7 @@ const homeConfig = {
             title: "Undergraduate & Graduate Student",
             company: (  
                 <div>
-                <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>IIT Kharagpur</p>
+                <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>IIT Kharagpur (KGP)</p>
                 <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> Bachelors & Masters in Chemical Engineering</div>
             </div>),
             description: (<ul>
