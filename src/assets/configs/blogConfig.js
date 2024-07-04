@@ -57,7 +57,7 @@ const blogConfig = [
             },
             {
                 name: "repo",
-                url: "https://github.com/rodrigo-arenas/kafkaml-anomaly-detection",
+                url: "https://github.com/customizedMe",
                 icon: <AiFillGithub/>
             }
         ],
