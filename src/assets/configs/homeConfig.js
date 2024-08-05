@@ -5,7 +5,7 @@ import { BsBank2 } from "react-icons/bs";
 import { IoSchoolSharp } from "react-icons/io5";
 
 // Import your image
-import profileImage from '../../assets/images/image_cropped.png'; // Adjust the path as necessary
+import profileImage from '../../assets/images/new_profile_image_cropped.png'; // Adjust the path as necessary
 
 
 const homeConfig = {
