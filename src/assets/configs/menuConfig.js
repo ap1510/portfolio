@@ -40,7 +40,7 @@ const menuConfig = {
     {
       id: "menu-4",
       title: "Resume",
-      path: "https://drive.google.com/file/d/1AHxbZNgGrXxRpZCNqWfJ9CtVQqUBZ45q/view?usp=sharing",
+      path: "https://drive.google.com/file/d/1WZcDuLPpI3ph_F8VjGJCsqebvQwh9gFg/view?usp=sharing",
       icon: <RiFilePaperLine size={35} />,
       className: "nav-text",
     }
