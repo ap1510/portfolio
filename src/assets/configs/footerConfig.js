@@ -1,9 +1,10 @@
 import {AiFillGithub} from "react-icons/ai";
 import {FaLinkedinIn} from "react-icons/fa";
-import {BsMedium} from "react-icons/bs";
+// import {BsMedium} from "react-icons/bs";
 import { IoMail } from "react-icons/io5";
 import { IoMdCall } from "react-icons/io";
 import React from "react";
+import { FaMediumM } from "react-icons/fa";
 
 const footerConfig = {
 
@@ -30,15 +31,15 @@ const footerConfig = {
             target: "_blank",
             icon: <IoMail size={50}/>
         }
-        // ,
+        ,
         
-        // {
-        //     id: "footer-3",
-        //     url: "https://medium.com/@aman.sharma_18745",
-        //     className: "social-icon",
-        //     target: "_blank",
-        //     icon: <BsMedium size={50}/>
-        // }
+        {
+            id: "footer-3",
+            url: "https://medium.com/@sharmaaman5598",
+            className: "social-icon",
+            target: "_blank",
+            icon: <FaMediumM size={50}/>
+        }
         ,
         {
             id: "footer-2",
