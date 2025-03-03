@@ -29,7 +29,7 @@ const App = () => {
         <h2>Projects</h2>
         <ul>
           <li>
-            <a href="Auto_Dealership_Analysis.pptx">Auto Dealership Analysis - Capital One</a>
+            <a href="Auto_Dealership_NLP_Analysis.pdf">Auto Dealership Analysis - Capital One</a>
           </li>
           <li>
             <a href="sub.py">Vehicle Accident Detection - Colevit</a>
@@ -51,7 +51,7 @@ const App = () => {
           LinkedIn: <a href="https://linkedin.com/in/adityaparashar149">linkedin.com/in/adityaparashar149</a>
         </p>
         <p>
-          GitHub: <a href="https://github.com/yourgithub">github.com/yourgithub</a>
+          GitHub: <a href="https://github.com/ap1510">github.com/yourgithub</a>
         </p>
       </section>
       <footer>
