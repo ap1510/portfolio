@@ -11,14 +11,14 @@ const footerConfig = {
     icons: [
         {
             id: "footer-0",
-            url: "https://github.com/aman-uta-kgp",
+            url: "https://github.com/ap1510",
             className: "social-icon",
             target: "_blank",
             icon: <AiFillGithub size={50}/>
         },
         {
             id: "footer-1",
-            url: "https://www.linkedin.com/in/sharmaaman5598",
+            url: "https://www.linkedin.com/in/adityaparashar149/",
             className: "social-icon",
             target: "_blank",
             icon: <FaLinkedinIn size={50}/>
@@ -26,7 +26,7 @@ const footerConfig = {
         
         {
             id: "footer-2",
-            url: "mailto:aman.sharma@utexas.edu",
+            url: "mailto:adityaparashar1150@gmail.com",
             className: "social-icon",
             target: "_blank",
             icon: <IoMail size={50}/>
@@ -34,20 +34,12 @@ const footerConfig = {
         ,
         
         {
-            id: "footer-3",
-            url: "https://medium.com/@sharmaaman5598",
-            className: "social-icon",
-            target: "_blank",
-            icon: <FaMediumM size={50}/>
-        }
-        ,
-        {
             id: "footer-2",
-            url: "tel:(737)-368-6870",
+            url: "tel:+91 9547966355",
             className: "social-icon",
             target: "_blank",
             icon: <IoMdCall size={50}/>,
-            title : "(737) - 368 - 6870"
+            title : "+91 9547966355"
         }
     ]
 }
