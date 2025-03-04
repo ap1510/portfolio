@@ -18,14 +18,13 @@ const homeConfig = {
         </h1>
 </div>,
     titles: [
-        "A Risk Professional",
         "A Data Scientist",
-        "A Longhorn",
-        "An IITian"
+        "A Risk & Decision Science Professional"
+
     ],
     about: {
-        start: ["With nearly three years of experience in Data Science, Machine Learning modeling, Advanced Analytics, & Decision Science,",
-             "I have developed expertise in building and deploying ML models, extracting meaningful insights from data, and designing data-driven strategies to solve complex business challenges across industries."
+        start: ["With nearly 3 years of experience in Data Science, ML modeling, Advanced Analytics, & Decision Science,",
+             "I have developed expertise in large scale ML models, extracting meaningful insights from data, and designing data-driven strategies to solve complex business challenges across industries."
 
     ],
             
