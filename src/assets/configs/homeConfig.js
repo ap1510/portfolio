@@ -24,7 +24,7 @@ const homeConfig = {
     ],
     about: {
         start: ["With nearly 3 years of experience in Data Science, ML modeling, Advanced Analytics, & Decision Science,",
-             "I have developed expertise in large scale ML models, extracting meaningful insights from data, and designing data-driven strategies to solve complex business challenges across industries."
+             "I have developed expertise in build large scale ML models, extracting meaningful insights from data, and designing data-driven strategies to solve complex business challenges across industries."
 
     ],
             
@@ -93,8 +93,8 @@ const homeConfig = {
             title: "Undergraduate Student",
             company: (  
                 <div>
-                <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>IIT Kharagpur (KGP)</p>
-                <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> Bachelors & Masters in Electronics and Communication Engineering</div>
+                <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>IIT Kharagpur, India</p>
+                <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> Bachelors in Electronics and Communication Engineering</div>
             </div>),
             description: (<ul>
                 <li>Relevant Coursework: ML in medicine,AI: Foundations & Applications, Expert Systems, Data Structures and Algorithms</li>
