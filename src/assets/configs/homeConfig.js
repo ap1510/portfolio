@@ -56,7 +56,7 @@ const homeConfig = {
         
         {
             id: "work-2",
-            title: "Machine Learning Intern"
+            title: "Machine Learning Intern",
             company: (  
                 <div>
                 <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>Capital One</p>
