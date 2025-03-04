@@ -24,8 +24,8 @@ const homeConfig = {
         "An IITian"
     ],
     about: {
-        start: ["With ~3 years of experience in Data Science, ML modelling, Advanced analytics and Decision Science,",
-        " I bring to the table expertise in the financial services industry and data science applications"
+        start: ["With nearly three years of experience in Data Science, Machine Learning modeling, Advanced Analytics, and Decision Science,",
+             "I have developed expertise in building and deploying ML models, extracting meaningful insights from data, and designing data-driven strategies to solve complex business challenges across industries."
 
     ],
             
@@ -34,16 +34,16 @@ const homeConfig = {
     workTimeline: [
         {
             id: "work-3",
-            title: ["Data Science Manager: American Express"],
+            title: ["Data Science Manager"],
             company: (  
                 <div>
-                <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>UT Austin</p>
-                <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> McCombs School of Business</div>
+                <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>Amex</p>
+                <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> Global Fraud</div>
             </div>
         ),
         description: (<ul>
             <li>Developed fundamental ML models (XGBoost, Neural Networks & RNN) improving fraud detection by 20%. </li>
-            <li>Leading a team of four, ensuring robust ML based fraud decisioning on 1B+ transactions monthly</li>
+            <li>Leading a team of four, ensuring robust ML based fraud decisioning on 1B+ monthly transactions </li>
             <li>Designed 25+ decision strategies, delivering $12M+ in annual savings.</li>
         </ul>),
            
@@ -56,11 +56,11 @@ const homeConfig = {
         
         {
             id: "work-2",
-            title: "Machine Learning Intern: Capital One",
+            title: "Machine Learning Intern"
             company: (  
                 <div>
-                <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>Drip Capital</p>
-                <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> YC & Sequoia backed Series C startup</div>
+                <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>Capital One</p>
+                <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> DataLabs</div>
             </div>
         ),
             description: (<ul>
@@ -74,11 +74,11 @@ const homeConfig = {
         },
         {
             id: "work-3",
-            title: "Machine Learning Intern: Colevit Technology",
+            title: "Machine Learning Intern",
             company: (  
                 <div>
-                <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>American Express</p>
-                <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> US Consumer Cards Business</div>
+                <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>Colevit Technology</p>
+                <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> Surveillance Tech</div>
             </div>),
             description: (<ul>
                 <li>IoT Security: Developed a smart city security prototype on a distributed IoT infrastructure</li>
@@ -95,7 +95,7 @@ const homeConfig = {
             company: (  
                 <div>
                 <p style={{ fontSize: "larger", display: "block", marginTop: "0" }}>IIT Kharagpur (KGP)</p>
-                <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> Bachelors & Masters in Chemical Engineering</div>
+                <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> Bachelors & Masters in Electronics and Communication Engineering</div>
             </div>),
             description: (<ul>
                 <li>Relevant Coursework: ML in medicine,AI: Foundations & Applications, Expert Systems, Data Structures and Algorithms</li>
