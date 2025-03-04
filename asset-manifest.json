@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/webport/static/css/main.063b794c.css",
-    "main.js": "/webport/static/js/main.cc23c224.js",
+    "main.js": "/webport/static/js/main.d7cfb2fa.js",
     "static/media/ratings_image.png": "/webport/static/media/ratings_image.ca2bb3da4728c7fd682e.png",
     "static/media/writing_sample.jpg": "/webport/static/media/writing_sample.d7c2ad093ee30648d125.jpg",
     "static/media/loan_amortization.jpg": "/webport/static/media/loan_amortization.d06050c84b535fcae907.jpg",
     "static/media/ff_model.png": "/webport/static/media/ff_model.e74bea6bac80c02f32d1.png",
-    "static/media/new_profile_image_cropped.png": "/webport/static/media/new_profile_image_cropped.a27371e5a5005e7946f3.png",
+    "static/media/new_profile_image_cropped.png": "/webport/static/media/new_profile_image_cropped.9aea35cc863a488d7deb.png",
     "static/media/sklearn_genetic_opt.png": "/webport/static/media/sklearn_genetic_opt.15b892adf6368a965618.png",
     "static/media/fastapi_sklearn.png": "/webport/static/media/fastapi_sklearn.0bfaec4cff582eb26751.png",
     "static/media/churn.png": "/webport/static/media/churn.8467c86e9d9ef9263e91.png",
@@ -17,10 +17,10 @@
     "static/media/stand_up_comedians.webp": "/webport/static/media/stand_up_comedians.bfcaf61e81c4f616a288.webp",
     "index.html": "/webport/index.html",
     "main.063b794c.css.map": "/webport/static/css/main.063b794c.css.map",
-    "main.cc23c224.js.map": "/webport/static/js/main.cc23c224.js.map"
+    "main.d7cfb2fa.js.map": "/webport/static/js/main.d7cfb2fa.js.map"
   },
   "entrypoints": [
     "static/css/main.063b794c.css",
-    "static/js/main.cc23c224.js"
+    "static/js/main.d7cfb2fa.js"
   ]
 }
