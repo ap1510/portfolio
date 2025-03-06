@@ -19,16 +19,15 @@ const homeConfig = {
 </div>,
     titles: [
         "A Data Scientist",
-        "A Risk & Decision Science Professional"
+        "A Decision Science Professional"
 
     ],
     about: {
-        start: ["With nearly 3 years of experience in Data Science, ML modeling, Advanced Analytics, & Decision Science,",
-             "I have developed expertise in build large scale ML models, extracting meaningful insights from data, and designing data-driven strategies to solve complex business challenges across industries."
+        start: ["With nearly 3 years of experience in Data Science, ML modeling, and Advanced Analytics, I specialize in building large-scale ML models, deriving insights, and crafting data-driven strategies."
 
     ],
             
-        exit: "I am currently a Data Science Manager at American Express, managing global card fraud risk."
+        exit: "Currently, I manage global card fraud risk as a Data Science Manager at American Express."
     },
     workTimeline: [
         {
@@ -97,12 +96,12 @@ const homeConfig = {
                 <div style={{ fontSize: "smaller", display: "block", marginTop: "0" }}> Bachelors in Electronics and Communication Engineering</div>
             </div>),
             description: (<ul>
-                <li>Relevant Coursework: ML in medicine,AI: Foundations & Applications, Expert Systems, Data Structures and Algorithms</li>
-                <li>Student Activities - Governor, Business Club; Vice Captain, Inter IIT Case Study Team, NSS Volunteer </li>
+                <li>Relevant Coursework: ML in medicine, AI: Foundations & Applications, Expert Systems, Data Structures and Algorithms</li>
+                <li>Student Activities - Governor, Business Club; Vice Captain, Inter IIT Case Study Team; Public Service Volunteer </li>
             </ul>),
             date: "Jul' 17 - Jul' 21",
             icon: <IoSchoolSharp/>,
-            tags: ["C", "C++","Python","MATLAB", "neural networks","bayesian optimization", "volunteering"]
+            tags: ["C", "C++","Python","MATLAB", "neural networks","bayesian optimization","Deep Learning","volunteering"]
         }
     ]
 }
