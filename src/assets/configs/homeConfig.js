@@ -1,6 +1,7 @@
 import React from 'react'
 import { BiRocket } from "react-icons/bi";
 import { FaUserGraduate } from "react-icons/fa6";
+import { MdHomeWork } from "react-icons/md";
 import { BsBank2 } from "react-icons/bs";
 import { IoSchoolSharp } from "react-icons/io5";
 
@@ -48,7 +49,7 @@ const homeConfig = {
 
 
             date: "Aug'21 - Present",
-            icon: <FaUserGraduate/>,
+            icon: <MdHomeWork/>,
             tags: ["python", "SQL","ML Modelling","A/B Testing","Decision Analytics"]
         },
         
@@ -84,7 +85,7 @@ const homeConfig = {
                 <li>Facial Recognition: Enhanced security efficiency 5x with YOLOv3-integrated smart cameras</li>
             </ul>),
             date: "May' 19 - Jul' 19",
-            icon: <BsBank2/>,
+            icon: <BiRocket/>,
             tags: ["IoT Security","Deep Learning"]
         },
         {
