@@ -6,11 +6,11 @@ import { FaMediumM } from "react-icons/fa";
 
 import BSM_model_image from "../images/BSM_model_image.png"
 import adverse_cred_rating from "../images/ratings_image.png"
-import ff_model from "../images/ff_model.png"
+import ff_model from "../images/ff_model.jpg"
 import writing from "../images/writing_sample.jpg"
 import index from "../images/index_replication.webp"
 import starbucks from "../images/Starbucks_analysis.webp"
-import standup from "../images/stand_up_comedians.webp"
+import standup from "../images/stand_up_comedians.jpeg"
 import churn from "../images/churn.png"
 import Binomial from "../images/Binomial_CRR.png"
 import loan from "../images/loan_amortization.jpg"
@@ -22,89 +22,78 @@ const projectConfig = [
 
     {
         id: "project-9",
-        title: "Analysis of Standup Comedians",
+        title: "Auto Dealership Fraud Detection",
         links: [
             {
                 name: "repo",
-                url: "https://github.com/krgodbole/DeepLaugh",
+                url: "https://github.com/ap1510/ML-Based-Auto-Dealership-Fraud-Detection",
                 icon: <AiFillGithub/>
             },
             {
                 name: "fork",
-                url: "https://github.com/krgodbole/DeepLaugh/fork",
+                url: "https://github.com/ap1510/ML-Based-Auto-Dealership-Fraud-Detection/fork",
                 icon: <BiGitRepoForked/>
-            },
-            {
-                name: "subscription",
-                url: "https://github.com/krgodbole/DeepLaugh/subscription",
-                icon: <AiFillEye/>
             }
             ,
             {
                 name: "article",
-                url: "https://medium.com/@sharmaaman5598/analysis-of-stand-up-comedians-e0bb7dd2470e",
+                url: "https://medium.com/@crew_7967/detecting-auto-dealership-fraud-using-machine-learning-and-nlp-a61adafa64fc",
                 icon: <FaMediumM/>
             }
         ],
         image: standup,
-        description: "Can deep learning uncover the secret behind what makes us laugh? That's exactly what DeepLaugh explores. Follow the link to know more.",
+        description: "A Machine Learning & NLP project using TF-IDF + SVM to analyze negative reviews and detect fraudulent dealership practices.",
         target: "_blank"
     },
 
     {
         id: "project-8",
-        title: "Fama French model testing",
+        title: "AI Based Disaster Relief And Management System",
         links: [
             {
                 name: "repo",
-                url: "https://github.com/aman-uta-kgp/Fama_french_validation",
+                url: "https://github.com/ap1510/AI_Based_Disaster_Relief_And_Management_System",
                 icon: <AiFillGithub/>
             },
             {
                 name: "fork",
-                url: "https://github.com/aman-uta-kgp/Fama_french_validation/fork",
+                url: "https://github.com/ap1510/AI_Based_Disaster_Relief_And_Management_System/fork",
                 icon: <BiGitRepoForked/>
             },
             {
-                name: "subscription",
-                url: "https://github.com/aman-uta-kgp/Fama_french_validation/subscription",
-                icon: <AiFillEye/>
+                name: "article",
+                url: "https://medium.com/@crew_7967/ai-powered-disaster-relief-and-management-the-drams-project-db8e71071672",
+                icon: <FaMediumM/>
             }
-            
         ],
         image: ff_model,
-        description: "Can the model that earned Fama and French a Nobel Prize still explain market returns in 2024? Explore how U.S. markets have evolved since 1996.",
+        description: "DRAMS is an AI-driven disaster management system that leverages Deep Learning, DBSCAN clustering, and AI-based routing algorithms to detect disasters, optimize rescue operations, and streamline post-disaster relief efforts.",
         target: "_blank"
     },
 
     {
         id: "project-7",
-        title: "NLP for brand perception assessment of Starbucks",
+        title: "Smart Car Detection and Alert System",
         links: [
             {
                 name: "repo",
-                url: "https://github.com/aman-uta-kgp/Perception_analysis_of_coffee_giant_Starbucks",
+                url: "https://github.com/ap1510/Car-Detection-Alert-System",
                 icon: <AiFillGithub/>
             },
             {
                 name: "fork",
-                url: "https://github.com/aman-uta-kgp/Perception_analysis_of_coffee_giant_Starbucks/fork",
+                url: "https://github.com/ap1510/Car-Detection-Alert-System/fork",
                 icon: <BiGitRepoForked/>
             },
             {
-                name: "subscription",
-                url: "https://github.com/aman-uta-kgp/Perception_analysis_of_coffee_giant_Starbucks/subscription",
-                icon: <AiFillEye/>
-            },
-            {
                 name: "article",
-                url: "https://medium.com/@sharmaaman5598/unstructured-data-analytics-for-assessing-starbucks-brand-perception-159ff930a5fc",
+                url: "https://medium.com/@crew_7967/ai-powered-car-detection-and-alert-system-enhancing-security-with-computer-vision-600e1ad3bd0b",
                 icon: <FaMediumM/>
             }
             
         ],
         image: starbucks,
-        description: "Discover how advanced NLP techniques applied to unstructured text data from Quora and Reddit reveal insights into the perception and positioning of a coffee giant.",
+        description: "A Deep Learning based real-time vehicle detection system that tracks cars in restricted areas and triggers automated email alerts if a vehicle overstays.",
         target: "_blank"
     },
 
