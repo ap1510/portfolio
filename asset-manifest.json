@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.40fc6eac.css",
-    "main.js": "/portfolio/static/js/main.756ccaeb.js",
+    "main.js": "/portfolio/static/js/main.d1de1249.js",
     "static/media/ratings_image.png": "/portfolio/static/media/ratings_image.ca2bb3da4728c7fd682e.png",
     "static/media/writing_sample.jpg": "/portfolio/static/media/writing_sample.d7c2ad093ee30648d125.jpg",
     "static/media/loan_amortization.jpg": "/portfolio/static/media/loan_amortization.d06050c84b535fcae907.jpg",
-    "static/media/new_profile_image_cropped.png": "/portfolio/static/media/new_profile_image_cropped.9aea35cc863a488d7deb.png",
     "static/media/stand_up_comedians.jpeg": "/portfolio/static/media/stand_up_comedians.cbc40d3c55551f226b77.jpeg",
     "static/media/sklearn_genetic_opt.png": "/portfolio/static/media/sklearn_genetic_opt.15b892adf6368a965618.png",
+    "static/media/new_profile_image_cropped.png": "/portfolio/static/media/new_profile_image_cropped.68c2b0f89e3e6ab57700.png",
     "static/media/fastapi_sklearn.png": "/portfolio/static/media/fastapi_sklearn.0bfaec4cff582eb26751.png",
     "static/media/Starbucks_analysis.webp": "/portfolio/static/media/Starbucks_analysis.f23b584242af681ed1e6.webp",
     "static/media/churn.png": "/portfolio/static/media/churn.8467c86e9d9ef9263e91.png",
@@ -17,10 +17,10 @@
     "static/media/Binomial_CRR.png": "/portfolio/static/media/Binomial_CRR.735531c29b6568eae623.png",
     "index.html": "/portfolio/index.html",
     "main.40fc6eac.css.map": "/portfolio/static/css/main.40fc6eac.css.map",
-    "main.756ccaeb.js.map": "/portfolio/static/js/main.756ccaeb.js.map"
+    "main.d1de1249.js.map": "/portfolio/static/js/main.d1de1249.js.map"
   },
   "entrypoints": [
     "static/css/main.40fc6eac.css",
-    "static/js/main.756ccaeb.js"
+    "static/js/main.d1de1249.js"
   ]
 }
