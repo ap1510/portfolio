@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.063b794c.css",
-    "main.js": "/portfolio/static/js/main.a9873cac.js",
+    "main.js": "/portfolio/static/js/main.006b9961.js",
     "static/media/ratings_image.png": "/portfolio/static/media/ratings_image.ca2bb3da4728c7fd682e.png",
     "static/media/writing_sample.jpg": "/portfolio/static/media/writing_sample.d7c2ad093ee30648d125.jpg",
     "static/media/loan_amortization.jpg": "/portfolio/static/media/loan_amortization.d06050c84b535fcae907.jpg",
-    "static/media/ff_model.png": "/portfolio/static/media/ff_model.e74bea6bac80c02f32d1.png",
     "static/media/new_profile_image_cropped.png": "/portfolio/static/media/new_profile_image_cropped.9aea35cc863a488d7deb.png",
+    "static/media/stand_up_comedians.jpeg": "/portfolio/static/media/stand_up_comedians.cbc40d3c55551f226b77.jpeg",
     "static/media/sklearn_genetic_opt.png": "/portfolio/static/media/sklearn_genetic_opt.15b892adf6368a965618.png",
     "static/media/fastapi_sklearn.png": "/portfolio/static/media/fastapi_sklearn.0bfaec4cff582eb26751.png",
+    "static/media/Starbucks_analysis.webp": "/portfolio/static/media/Starbucks_analysis.f23b584242af681ed1e6.webp",
     "static/media/churn.png": "/portfolio/static/media/churn.8467c86e9d9ef9263e91.png",
     "static/media/BSM_model_image.png": "/portfolio/static/media/BSM_model_image.e764949912acd1ed82e6.png",
-    "static/media/Starbucks_analysis.webp": "/portfolio/static/media/Starbucks_analysis.f985f25f4f45b48c4a90.webp",
+    "static/media/ff_model.jpg": "/portfolio/static/media/ff_model.5e19a46da47af70dec30.jpg",
     "static/media/index_replication.webp": "/portfolio/static/media/index_replication.aecde7abcab4619dada2.webp",
     "static/media/Binomial_CRR.png": "/portfolio/static/media/Binomial_CRR.735531c29b6568eae623.png",
-    "static/media/stand_up_comedians.webp": "/portfolio/static/media/stand_up_comedians.bfcaf61e81c4f616a288.webp",
     "index.html": "/portfolio/index.html",
     "main.063b794c.css.map": "/portfolio/static/css/main.063b794c.css.map",
-    "main.a9873cac.js.map": "/portfolio/static/js/main.a9873cac.js.map"
+    "main.006b9961.js.map": "/portfolio/static/js/main.006b9961.js.map"
   },
   "entrypoints": [
     "static/css/main.063b794c.css",
-    "static/js/main.a9873cac.js"
+    "static/js/main.006b9961.js"
   ]
 }
