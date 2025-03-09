@@ -17,7 +17,7 @@ const About = (props) => {
     fontSize: "132%",
     lineHeight: "150%",
     backgroundColor: "#F6F6F6",
-    color: "#8e8d8a",
+    color: "#000000",
     padding: "2rem",
   };
 

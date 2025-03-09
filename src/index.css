@@ -4,8 +4,8 @@ body {
     font-family: "Raleway", serif !important;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background: rgb(45, 51, 107);
-    background: radial-gradient(rgb(45,51,106),rgb(45, 51, 107),rgb(45,51,108));
+    background: rgb(9, 2, 117);
+    background: radial-gradient(rgb(9,2,116),rgb(9,2,117),rgb(9,2,114));
 }
 
 .about-card {
