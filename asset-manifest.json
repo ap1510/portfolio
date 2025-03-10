@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.40fc6eac.css",
-    "main.js": "/portfolio/static/js/main.b72eb38f.js",
+    "main.js": "/portfolio/static/js/main.2b22145c.js",
     "static/media/writing_sample.jpg": "/portfolio/static/media/writing_sample.d7c2ad093ee30648d125.jpg",
     "static/media/loan_amortization.jpg": "/portfolio/static/media/loan_amortization.d06050c84b535fcae907.jpg",
     "static/media/ratings_image.png": "/portfolio/static/media/ratings_image.1addf008e90f2db84b91.png",
@@ -17,10 +17,10 @@
     "static/media/index_replication.webp": "/portfolio/static/media/index_replication.0fedfe5c8bb751485d0d.webp",
     "index.html": "/portfolio/index.html",
     "main.40fc6eac.css.map": "/portfolio/static/css/main.40fc6eac.css.map",
-    "main.b72eb38f.js.map": "/portfolio/static/js/main.b72eb38f.js.map"
+    "main.2b22145c.js.map": "/portfolio/static/js/main.2b22145c.js.map"
   },
   "entrypoints": [
     "static/css/main.40fc6eac.css",
-    "static/js/main.b72eb38f.js"
+    "static/js/main.2b22145c.js"
   ]
 }
