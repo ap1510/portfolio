@@ -99,160 +99,71 @@ const projectConfig = [
 
     {
         id: "project-6",
-        title: "Market Index Replication using Linear Optimization",
+        title: " Deep Learning Based Object Localization",
         links: [
             {
                 name: "repo",
-                url: "https://github.com/aman-uta-kgp/index_replica_building",
+                url: "https://github.com/ap1510/Deep_Learning_Based_Object_Localization",
                 icon: <AiFillGithub/>
             },
             {
                 name: "fork",
-                url: "https://github.com/aman-uta-kgp/index_replica_building/fork",
+                url: "https://github.com/ap1510/Deep_Learning_Based_Object_Localization/fork",
                 icon: <BiGitRepoForked/>
             },
             {
-                name: "subscription",
-                url: "https://github.com/aman-uta-kgp/index_replica_building/subscription",
-                icon: <AiFillEye/>
-            },
-            {
                 name: "article",
-                url: "https://medium.com/@sharmaaman5598/index-replica-building-3f16f3ae9257",
+                url: "https://medium.com/@crew_7967/object-localization-in-e-commerce-images-enhancing-product-discovery-with-ai-d74b05ce3aaa",
                 icon: <FaMediumM/>
             }
             
         ],
         image: index,
-        description: "As passive portfolio management gains more traction, it is key to identify low-cost, first-principle solutions to the index tracking problems. Here, we compare a two linear optimization approaches on their ability to track an index.",
+        description: "A CNN-based deep learning model that detects and localizes objects in product images using data augmentation, feature extraction, and optimized training.",
         target: "_blank"
     },
         
     {
         id: "project-5",
-        title: "Customer Churn Prediction in Telecom Industry",
+        title: "Case Study - Growing an Organic Brand: Strategic Solutions for 24 Mantra",
         links: [
             {
                 name: "repo",
-                url: "https://github.com/aman-uta-kgp/customer_churn_prediction",
+                url: "https://github.com/ap1510/case_study_24Mantra",
                 icon: <AiFillGithub/>
             },
             {
-                name: "fork",
-                url: "https://github.com/aman-uta-kgp/customer_churn_prediction/fork",
-                icon: <BiGitRepoForked/>
-            },
-            {
-                name: "subscription",
-                url: "https://github.com/aman-uta-kgp/customer_churn_prediction/subscription",
-                icon: <AiFillEye/>
+                name: "article",
+                url: "https://medium.com/@crew_7967/growing-an-organic-brand-strategic-solutions-for-24-mantra-cd60567f2de0",
+                icon: <FaMediumM/>
             }
         ],
         image: churn,
-        description: "Using customer churn prediction to maximize portfolio LTV under retention budget constraints.",
+        description: "Strategic growth solutions for 24 Mantra Organic, focusing on brand awareness, consumer trust, and market expansion.",
         target: "_blank"
     },
 
 
     {
         id: "project-4",
-        title: "Credit Rating Migration & Adverse News",
+        title: "Case Study - Scaling a Rock Climbing Business",
         links: [
             {
                 name: "repo",
-                url: "https://github.com/aman-uta-kgp/credit_rating_migration",
+                url: "https://github.com/ap1510/case_study_the_piton_problem",
                 icon: <AiFillGithub/>
             },
             {
-                name: "fork",
-                url: "https://github.com/aman-uta-kgp/credit_rating_migration/fork",
-                icon: <BiGitRepoForked/>
-            },
-            {
-                name: "subscription",
-                url: "https://github.com/aman-uta-kgp/credit_rating_migration/subscription",
-                icon: <AiFillEye/>
+                name: "article",
+                url: "https://medium.com/@crew_7967/scaling-a-rock-climbing-business-the-piton-problem-case-study-3d1bbdd7bdf6",
+                icon: <FaMediumM/>
             }
         ],
         image: adverse_cred_rating,
-        description: "Does adverse public information like litigation or judgements influence company credit ratings? Let's find out.",
-        target: "_blank"
-    },
-    
-    {
-        id: "project-3",
-        title: "BSM Options Pricing Model",
-        links: [
-            {
-                name: "repo",
-                url: "https://github.com/aman-uta-kgp/BSM_Monte_Carlo_engine",
-                icon: <AiFillGithub/>
-            },
-            {
-                name: "fork",
-                url: "https://github.com/aman-uta-kgp/BSM_Monte_Carlo_engine/fork",
-                icon: <BiGitRepoForked/>
-            },
-            {
-                name: "subscription",
-                url: "https://github.com/aman-uta-kgp/BSM_Monte_Carlo_engine/subscription",
-                icon: <AiFillEye/>
-            }
-        ],
-        image: BSM_model_image,
-        description: "Implementation of Black Scholes Merton Option Pricing Model for a non dividend paying European option.",
-        target: "_blank"
-    },
-
-    {
-        id: "project-2",
-        title: "Unraveling patterns within unstructured text data",
-        links: [
-            {
-                name: "repo",
-                url: "https://github.com/aman-uta-kgp/ML_Assignment_Prof_Puelz/blob/main/Ques_7.ipynb",
-                icon: <AiFillGithub/>
-            },
-            {
-                name: "fork",
-                url: "https://github.com/aman-uta-kgp/ML_Assignment_Prof_Puelz/tree/main/fork",
-                icon: <BiGitRepoForked/>
-            },
-            {
-                name: "subscription",
-                url: "https://github.com/aman-uta-kgp/ML_Assignment_Prof_Puelz/tree/main/subscription",
-                icon: <AiFillEye/>
-            }
-        ],
-        image: writing,
-        description: "Can we segregate Reuters journalists with just their writings samples? Unsupervised learning methods like PCA show us how.",
-        target: "_blank"
-    },
-
-    {
-        id: "project-1",
-        title: "Binomial Pricing using CRR Strategy",
-        links: [
-            {
-                name: "repo",
-                url: "https://github.com/aman-uta-kgp/binomial_pricing_model",
-                icon: <AiFillGithub/>
-            },
-            {
-                name: "fork",
-                url: "https://github.com/aman-uta-kgp/binomial_pricing_model/fork",
-                icon: <BiGitRepoForked/>
-            },
-            {
-                name: "subscription",
-                url: "https://github.com/aman-uta-kgp/binomial_pricing_model/subscription",
-                icon: <AiFillEye/>
-            }
-        ],
-        image: Binomial,
-        description: "A C++ implementation of the binomial pricing model using the CRR strategy, widely used for derivative pricing.",
+        description: "A strategic growth plan for a rock climbing equipment startup, optimizing financial feasibility, supply chain, and market expansion.",
         target: "_blank"
     }
+ 
 ]
 
 export default projectConfig
